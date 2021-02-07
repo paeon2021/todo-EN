@@ -1,2 +1,2 @@
 # todo-EN
-todo tab for you and me EN
+todo list tab for you and me v.English
